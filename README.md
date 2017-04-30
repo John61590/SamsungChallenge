@@ -13,7 +13,7 @@ is clicked, a detail screen appears with all of the images and the file names at
 Some screenshots can be found below. Additional ones can be found in the repository.
 
 
-![ScreenShot](https://raw.github.com/John61590/SamsungChallenge/master/samsung-challenge_master.png)
+![ScreenShot](https://raw.github.com/John61590/SamsungChallenge/master/samsung-challenge-master.png)
 ![ScreenShot](https://raw.github.com/John61590/SamsungChallenge/master/samsung-challenge-dialog-pager.png)
 ![ScreenShot](https://raw.github.com/John61590/SamsungChallenge/master/samsung-challenge-detail.png)
 
