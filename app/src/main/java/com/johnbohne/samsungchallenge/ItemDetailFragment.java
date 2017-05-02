@@ -37,9 +37,6 @@ public class ItemDetailFragment extends Fragment {
         mFilePaths = new ArrayList<>();
 
         if (getArguments().containsKey("fileInfo")) {
-            // Load the dummy content specified by the fragment
-            // arguments. In a real-world scenario, use a Loader
-            // to load content from a content provider.
             mFilePaths = getArguments().getStringArrayList("fileInfo");
 
         }
